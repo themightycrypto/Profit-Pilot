@@ -3,7 +3,7 @@
 <ol>
  	<li>First buy ProfitPilot here: digitaltradingsoftware.com/profitpilot</li>
  	<li>Create a new folder on your disk and download the files.
- ![alt text](installimages/directoryinstall.png "Description goes here")</li>
+</li>
  	<li>Run the file “Start-Pilot”. You can click on it (or run it in a ‘command’ window).</li>
  	<li>Copy the Manager-ID shown. Register the Manager-ID on the website, follow the instructions.</li>
  	<li>You will be activated and receive an email with your Product-ID. This is your activation key.</li>
@@ -21,5 +21,6 @@
 Run ProfitPilot!
 
 You are now ready to run it. Click on the file “Start-Pilot.bat”
-
+ <img src="installimages/screenshot-directoryinstall.png">
+ ![](/installimages/screenshot-directoryinstall.png)
 &nbsp;
