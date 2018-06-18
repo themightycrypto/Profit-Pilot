@@ -5,7 +5,7 @@
 <p><strong>What is Profit Pilot?</strong></p>
 <p>An Enhanced Feeder GUI (Graphical User Interface) </p>
 <p>An Enhanced Trailer GUI (Graphical User Interface) </p>
-<p>Works with ProfitTrailer-Feeder, ProfitTrailer-Magic, or ProfitTrailer Only</p>
+<p>Works with ProfitTrailer-Feeder, or ProfitTrailer-Magic, or ProfitTrailer Only</p>
 <p>And much more!</p>
 &nbsp;
 <p><strong>HOW TO INSTALL</strong></p>
@@ -17,6 +17,8 @@
 <p>  DISCORD: (coming soon)</p>
 &nbsp;
 <img src="installimages/screenshot-feederpanel1.png" width="800">
+&nbsp;
+<img src="installimages/screenshot-trailertriggers.png" width="800">
 &nbsp;
 <img src="installimages/screenshot-trailerpanel1.png" width="800">
 &nbsp;
