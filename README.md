@@ -12,7 +12,6 @@
 <p>   Visit the site to<a href="http://digitaltradingsoftware.com"> buy and install it</a>.</p>
 <strong>HELP</strong>
 <p>   Check the WIKI for instructions.</p>
-<strong>COMMUNITY</strong>
 <p>  TELEGRAM: (coming soon)</p>
 <p>  DISCORD: (coming soon)</p>
 &nbsp;
