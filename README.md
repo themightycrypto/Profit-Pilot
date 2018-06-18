@@ -17,10 +17,11 @@
 &nbsp;
 <img src="installimages/screenshot-feederpanel1.png" width="800">
 &nbsp;
-<img src="installimages/screenshot-trailertriggers.png" width="800">
+<img src="installimages/screenshot-transfertrailer.png" width="800">
 &nbsp;
 <img src="installimages/screenshot-trailerpanel1.png" width="800">
 &nbsp;
-
+&nbsp;
+<img src="installimages/screenshot-trailertriggers.png" width="800">
 &nbsp;
  
