@@ -12,7 +12,7 @@
 <p>   Visit the site to<a href="http://digitaltradingsoftware.com"> buy and install it</a>.</p>
 <strong>HELP</strong>
 <p>   Check the <a href="https://github.com/themightycrypto/Profit-Pilot/wiki">WIKI</a> for instructions.</p>
-<p>  TELEGRAM: (coming soon)</p>
+<p>  TELEGRAM: Message me @theMightyCrypto <a href="telegram.me/themightycrypto"telegram.me/theMightyCrypto</a></p>
 <p>  DISCORD: (coming soon)</p>
 &nbsp;
 <img src="installimages/screenshot-feederpanel1.png" width="800">
