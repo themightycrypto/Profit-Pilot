@@ -27,7 +27,7 @@
 <p>And much more!</p>
 &nbsp;
 <p><strong>HOW TO INSTALL</strong></p>
-<p>   Visit the site to<a href="http://digitaltradingsoftware.com"> buy and install it</a>.</p>
+<p>   Visit the site <a href="http://digitaltradingsoftware.com"> here</a> to download it.</p>
 <strong>HELP</strong>
 <p>   Check the <a href="https://github.com/themightycrypto/Profit-Pilot/wiki">WIKI</a> for instructions.</p>
 <p>  TELEGRAM: @theMightyCrypto <a href="telegram.me/themightycrypto">telegram.me/theMightyCrypto</a></p>
