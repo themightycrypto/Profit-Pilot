@@ -4,11 +4,8 @@
  It can transfer your BTC or ETH profits to USDT or fiat when the market drops(Pro Version). It makes confguring separate coins easy! </p>
 &nbsp;
 <p><strong>What does Profit Pilot do?</strong></p>
-<p>Works with ProfitTrailer or Feeder or Magic, or without Feeder or Magic. You do not have to get both.</p>
 
-<p>Automatically saves settings to ProfitTrailer.</p>
-
-<p>No typing commands in ProftTrailer.</p>
+<p>Automatically saves settings to ProfitTrailer. No typing commands in ProftTrailer.</p>
 
 <p>New PT Feeder user settings screen. (or also use PT Magic) </p>
 
@@ -23,6 +20,8 @@
 <p>Connect to remote web interface and access using smartphone.</p>
 
 <p>Transfer your BTC to USDT to save profits when the market drops!(Pro)</p>
+
+<p>Works with ProfitTrailer or Feeder or Magic, or without Feeder or Magic. You do not have to get both.</p>
 
 <p>And much more!</p>
 &nbsp;
