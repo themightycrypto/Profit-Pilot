@@ -1,6 +1,6 @@
 # Profit-Pilot
 <p>Hello, welcome to ProfitPilot!</p>
-<p>I'm a huge fan of ProfiTrailer so I created this app to supercharge the user experience. Profit-Pilot automates and controls the combined power of Trailer, Feeder, and Magic. It has a PT Feeder GUI, and a ProfitTrailer GUI which combines the two! It has many functions such as to automatically send your Trailer settings directly into Feeder! (it can also use PtMagic!) It also has manual buy & sell & manual DCA for Trailer. 
+<p>Profit-Pilot automates and controls the combined power of Trailer, Feeder, and Magic. It has a PT Feeder GUI, and a ProfitTrailer GUI which combines the two! It has many functions such as to automatically send your Trailer settings directly into Feeder! (it can also use PtMagic!) It also has manual buy & sell & manual DCA for Trailer. 
  It can transfer your BTC or ETH profits to USDT or fiat when the market drops(Pro Version). It makes confguring separate coins easy! </p>
 &nbsp;
 <p><strong>What does Profit Pilot do?</strong></p>
