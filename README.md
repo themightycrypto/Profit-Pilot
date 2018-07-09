@@ -1,5 +1,5 @@
 # PT Co-Pilot
-<p>Hello, welcome to PT Co-Pilot!</p>
+<p>Hello, welcome to PT Co-Pilot! (renamed from Profit Pilot)</p>
 <p>PT-Co-Pilot automates and controls the combined power of Profit Trailer, Feeder, and Magic. It has a PT Feeder GUI, and a ProfitTrailer GUI which combines the two! It has many functions such as to automatically send your Trailer settings directly into Feeder! (it can also use PtMagic!) It also has manual buy & sell & manual DCA for Trailer. 
  It can transfer your BTC or ETH profits to USDT or fiat when the market drops(Pro Version). It makes confguring separate coins easy! </p>
 &nbsp;
