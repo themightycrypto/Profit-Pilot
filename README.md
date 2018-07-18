@@ -30,8 +30,6 @@
 <p>   Visit the site <a href="http://digitaltradingsoftware.com"> here</a> to download it.</p>
 <strong>HELP</strong>
 <p>   Check the <a href="https://github.com/themightycrypto/Profit-Pilot/wiki">WIKI</a> for instructions.</p>
-<p>  TELEGRAM: @theMightyCrypto <a href="telegram.me/themightycrypto">telegram.me/theMightyCrypto</a></p>
-<p>  DISCORD: (coming soon)</p>
 &nbsp;
 <img src="installimages/screenshot-feederpanel1.png" width="800">
 &nbsp;
