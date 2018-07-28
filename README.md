@@ -31,13 +31,5 @@
 <strong>HELP</strong>
 <p>   Check the <a href="https://github.com/themightycrypto/Profit-Pilot/wiki">WIKI</a> for instructions.</p>
 &nbsp;
-<img src="installimages/screenshot-feederpanel1.png" width="800">
-&nbsp;
-<img src="installimages/screenshot-transfertrailer.png">
-&nbsp;
 <img src="installimages/screenshot-trailerpanel1.png" width="800">
 &nbsp;
-&nbsp;
-<img src="installimages/screenshot-trailertriggers.png" width="800">
-&nbsp;
- 
